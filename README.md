@@ -12,8 +12,5 @@ It is free culture work, licensed under the Creative Commons Attribution Share-A
 
 # 各个语言版本
 - [English Version](https://github.com/ethereum/yellowpaper) originally by Gavin Wood, currently maintained by Nick Savers and with contributions from many people around the world.
-- [中文版](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/ethereum_yellow_paper_cn.pdf) 由崔广斌(微信: yuange1024 ,加好友时请注明区块链) 、高天露 和 riversyang 联合翻译。
+- [中文版](https://github.com/wanshan1024/ethereum_yellowpaper/blob/master/ethereum_yellow_paper_cn.pdf) 由万山、高天露 和 riversyang 联合翻译。
 - [French Version](https://github.com/asseth/yellowpaper) translated by Asseth (checkout to branch 'french' ).
-
-# 欢迎打赏译者
-- 打赏地址： yuange.eth  或 0x74451193cCf4d1c9182c973538d9D2339350Ee1A 
