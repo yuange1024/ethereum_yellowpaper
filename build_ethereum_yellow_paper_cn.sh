@@ -10,7 +10,7 @@ SHA=`git rev-parse --short --verify HEAD`
 DATE=`git show -s --format="%cd" --date=short HEAD`
 # REV="$SHA - $DATE"
 # chinese version's origin version
-REV="f72032b - 2018-05-04"
+REV="f72032b - 2022-06-05"
 echo "\def\YellowPaperVersionNumber{$REV}" >> Options.tex
 
 fi
@@ -31,3 +31,4 @@ xelatex -interaction=errorstopmode -halt-on-error ethereum_yellow_paper_cn.tex &
 xelatex -interaction=errorstopmode -halt-on-error ethereum_yellow_paper_cn.tex && \
 xelatex -interaction=errorstopmode -halt-on-error ethereum_yellow_paper_cn.tex && \
 rm -rf Options.tex
+
